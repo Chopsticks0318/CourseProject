@@ -1,7 +1,7 @@
 ---
 title: 'Course Project: Shiny Application and Reproducible Pitch'
-author: "Xenia Sokolova"
-date: "15 04 2020"
+author: "Jun Hwang"
+date: "26 July 2021"
 output: ioslides_presentation
 ---
 
